@@ -1,0 +1,15 @@
+/Users/mikestratovych/Projects/laba1/laba1/bin/Debug/net7.0/laba1
+/Users/mikestratovych/Projects/laba1/laba1/bin/Debug/net7.0/laba1.deps.json
+/Users/mikestratovych/Projects/laba1/laba1/bin/Debug/net7.0/laba1.runtimeconfig.json
+/Users/mikestratovych/Projects/laba1/laba1/bin/Debug/net7.0/laba1.dll
+/Users/mikestratovych/Projects/laba1/laba1/bin/Debug/net7.0/laba1.pdb
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.csproj.AssemblyReference.cache
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.AssemblyInfoInputs.cache
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.AssemblyInfo.cs
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.csproj.CoreCompileInputs.cache
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.dll
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/refint/laba1.dll
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.pdb
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/laba1.genruntimeconfig.cache
+/Users/mikestratovych/Projects/laba1/laba1/obj/Debug/net7.0/ref/laba1.dll
