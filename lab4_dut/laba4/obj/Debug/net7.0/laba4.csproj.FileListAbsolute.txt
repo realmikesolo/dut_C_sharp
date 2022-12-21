@@ -1,0 +1,15 @@
+/Users/mikestratovych/Projects/laba4/laba4/bin/Debug/net7.0/laba4
+/Users/mikestratovych/Projects/laba4/laba4/bin/Debug/net7.0/laba4.deps.json
+/Users/mikestratovych/Projects/laba4/laba4/bin/Debug/net7.0/laba4.runtimeconfig.json
+/Users/mikestratovych/Projects/laba4/laba4/bin/Debug/net7.0/laba4.dll
+/Users/mikestratovych/Projects/laba4/laba4/bin/Debug/net7.0/laba4.pdb
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.csproj.AssemblyReference.cache
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.AssemblyInfoInputs.cache
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.AssemblyInfo.cs
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.csproj.CoreCompileInputs.cache
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.dll
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/refint/laba4.dll
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.pdb
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/laba4.genruntimeconfig.cache
+/Users/mikestratovych/Projects/laba4/laba4/obj/Debug/net7.0/ref/laba4.dll
