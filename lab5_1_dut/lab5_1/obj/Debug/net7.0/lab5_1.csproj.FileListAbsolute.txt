@@ -1,0 +1,15 @@
+/Users/mikestratovych/Projects/lab5_1/lab5_1/bin/Debug/net7.0/lab5_1
+/Users/mikestratovych/Projects/lab5_1/lab5_1/bin/Debug/net7.0/lab5_1.deps.json
+/Users/mikestratovych/Projects/lab5_1/lab5_1/bin/Debug/net7.0/lab5_1.runtimeconfig.json
+/Users/mikestratovych/Projects/lab5_1/lab5_1/bin/Debug/net7.0/lab5_1.dll
+/Users/mikestratovych/Projects/lab5_1/lab5_1/bin/Debug/net7.0/lab5_1.pdb
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.csproj.AssemblyReference.cache
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.AssemblyInfoInputs.cache
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.AssemblyInfo.cs
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.csproj.CoreCompileInputs.cache
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.dll
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/refint/lab5_1.dll
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.pdb
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/lab5_1.genruntimeconfig.cache
+/Users/mikestratovych/Projects/lab5_1/lab5_1/obj/Debug/net7.0/ref/lab5_1.dll
